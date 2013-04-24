@@ -1,0 +1,76 @@
+{
+  "friendlyVersion" : "dev_0.0",
+  "versionDefName" : "APP_RESOURCES",
+  "media" : [
+  {
+        "type": "png",
+        "defName": "IMAGE_MENU_ICON",
+        "file": "images/icon.png"
+  },
+    {
+      "type" : "png-trans",
+      "defName" : "BUG_IMAGE",
+      "file" : "/images/bug.png"
+    },
+    {
+      "type" : "png",
+      "defName" : "HOUR_1",
+      "file" : "/images/daisyHours/image1.png"
+    },
+    {
+      "type" : "png",
+      "defName" : "HOUR_2",
+      "file" : "/images/daisyHours/image2.png"
+    },
+    {
+      "type" : "png",
+      "defName" : "HOUR_3",
+      "file" : "/images/daisyHours/image3.png"
+    },
+    {
+      "type" : "png",
+      "defName" : "HOUR_4",
+      "file" : "/images/daisyHours/image4.png"
+    },
+    {
+      "type" : "png",
+      "defName" : "HOUR_5",
+      "file" : "/images/daisyHours/image5.png"
+    },
+    {
+      "type" : "png",
+      "defName" : "HOUR_6",
+      "file" : "/images/daisyHours/image6.png"
+    },
+    {
+      "type" : "png",
+      "defName" : "HOUR_7",
+      "file" : "/images/daisyHours/image7.png"
+    },
+    {
+      "type" : "png",
+      "defName" : "HOUR_8",
+      "file" : "/images/daisyHours/image8.png"
+    },
+    {
+      "type" : "png",
+      "defName" : "HOUR_9",
+      "file" : "/images/daisyHours/image9.png"
+    },
+    {
+      "type" : "png",
+      "defName" : "HOUR_10",
+      "file" : "/images/daisyHours/image10.png"
+    },
+    {
+      "type" : "png",
+      "defName" : "HOUR_11",
+      "file" : "/images/daisyHours/image11.png"
+    },
+    {
+      "type" : "png",
+      "defName" : "HOUR_12",
+      "file" : "/images/daisyHours/image12.png"
+    }
+  ]
+}
