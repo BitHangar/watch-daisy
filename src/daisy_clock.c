@@ -30,7 +30,7 @@
 #define MY_UUID { 0x9D, 0xD8, 0x89, 0x5C, 0xC4, 0xA4, 0x4C, 0x4D, 0x97, 0xEC, 0x1A, 0xA6, 0xF2, 0x80, 0x5B, 0x72 }
 PBL_APP_INFO(MY_UUID,
              "Daisy Clock", "Bit Hangar",
-             1, 0, /* App version */
+             1, 1, /* App version */
              RESOURCE_ID_IMAGE_MENU_ICON,
              APP_INFO_WATCH_FACE);
 
